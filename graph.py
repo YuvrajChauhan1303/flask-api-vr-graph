@@ -60,4 +60,4 @@ def plot_graph():
 
 if __name__ == '__main__':
     # Host on 0.0.0.0 to allow LAN access
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=False)
