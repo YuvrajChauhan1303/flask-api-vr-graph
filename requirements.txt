@@ -1,4 +1,5 @@
-flask
-flask_cors
-numpy
-matplotlib
+Flask==2.3.2
+Flask-Cors==4.0.0
+matplotlib==3.8.0
+numpy==1.26.2
+gunicorn==21.2.0
